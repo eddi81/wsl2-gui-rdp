@@ -39,10 +39,8 @@
   `startxfce4`
 
 - Start RDP Service: `sudo /etc/init.d/xrdp start`
-
-Go to Remote Desktop and set: localhost:3390.
-
-Press ENTER
+- Go to Remote Desktop and set: localhost:3390.
+- Press ENTER
 
 # Refrences:
 - https://github.com/davidbombal/wsl2/blob/main/ubuntu_gui_youtube
